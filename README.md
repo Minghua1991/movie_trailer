@@ -2,7 +2,7 @@
 
 This project is a part of Full Stack Developer Nanodegree from Udacity.
 It provides a server-side script to store a list of movies, incluing movie title, poster image URL, movie trailer URL, release year, description and watch URL.
-These information can be fetched from a csv file which provides a easy way to manage all movie data.
+This information can be fetched from a csv file which provides a easy way to manage all movie data.
 
 # How to run
 
