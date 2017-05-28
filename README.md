@@ -16,4 +16,4 @@ This information can be fetched from a csv file which provides an easy way to ma
       * Save the changes in movie_trailer.py file.
  * Step 4: Run movie_trailer.py file, then the webpage will pop up automatically (Only available for python 2.7.6).
 
-# [Live Demo](https://himing.me/movie333)
+# [Live Demo](https://minghua1991.github.io/movie_trailer/index.html)
