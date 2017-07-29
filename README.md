@@ -1,8 +1,10 @@
+# [Demo](https://minghua1991.github.io/movie_trailer/index.html)
+
+
 # About
 
-This project is a part of Full Stack Developer Nanodegree from Udacity.
-It provides a server-side script to store a list of movies, incluing movie title, poster image URL, movie trailer URL, release year, description and watch URL.
-This information can be fetched from a csv file which provides an easy way to manage all movie data.
+This project provides a server-side script to store a list of movies, incluing movie title, poster image URL, movie trailer URL, release year, description and watch URL.
+All information can be fetched from a csv file which provides an easy way to manage all movie data.
 
 # How to run
 
@@ -16,4 +18,4 @@ This information can be fetched from a csv file which provides an easy way to ma
       * Save the changes in movie_trailer.py file.
  * Step 4: Run movie_trailer.py file, then the webpage will pop up automatically (Only available for python 2.7.6).
 
-# [Live Demo](https://minghua1991.github.io/movie_trailer/index.html)
+
