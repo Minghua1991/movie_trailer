@@ -1,4 +1,4 @@
-# [Demo](https://minghua1991.github.io/movie_trailer/index.html)
+# [Demo](https://m-zheng.github.io/movie_trailer/)
 
 
 # About
